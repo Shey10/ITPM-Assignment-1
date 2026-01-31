@@ -67,3 +67,7 @@ Verify installation:
 ```bash
 node -v
 npm -v
+
+## ▶️ Running the Tests
+
+##Run all Playwright tests: npx playwright test tests/excelTranslator.spec.js
