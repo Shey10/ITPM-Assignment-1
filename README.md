@@ -63,16 +63,20 @@ Covered areas include:
 - npm (included with Node.js)
 
 Verify installation:
+```bash
 
 node -v
 npm -v
 
+```
 ## ▶️ Running the Tests
 
 Run all Playwright tests: 
-npx playwright test tests/excelTranslator.spec.js
 
 ```bash
+
+npx playwright test tests/excelTranslator.spec.js
+```
 
 
 
