@@ -1,7 +1,10 @@
+# IT3040 – Assignment 1  
+## Singlish to Sinhala Transliteration Testing using Playwright
+
+
 This repository contains the automated testing solution for *IT3040 – IT Project Management (Assignment 1)*.  
 The project evaluates the *functional accuracy, robustness, and UI behavior* of a real-world web-based transliteration system that converts *Singlish input into Sinhala output*.
 
----
 
 ## 📌 System Under Test
 
@@ -16,8 +19,6 @@ The project evaluates the *functional accuracy, robustness, and UI behavior* of 
 - Formatting and robustness behavior  
 - Real-time UI output updates  
 
-
----
 
 ## 🧪 Test Coverage Summary
 
