@@ -45,7 +45,6 @@ Covered areas include:
 - *1 UI test case* verifying:
   - Real-time Sinhala output generation while typing Singlish input
 
----
 
 ## 🛠️ Technology Stack
 
@@ -55,7 +54,6 @@ Covered areas include:
 - *Browser Used:* Chromium  
 - *Operating System:* Windows  
 
----
 
 
 
